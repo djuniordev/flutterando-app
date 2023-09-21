@@ -18,8 +18,36 @@ class HomePageState extends State<HomePage> {
         title: Text("Home Page"),
         actions: [CustomSwitcher()],
       ),
-      body: Center(
-        child: CustomSwitcher(),
+      body: Container(
+        width: double.infinity,
+        height: double.infinity,
+        child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Text("contador: $counter"),
+          Container(
+            height: 50,
+          ),
+          CustomSwitcher(),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            children: [
+              Container(
+                width: 50,
+                height: 50,
+                color: Colors.black,
+              ),
+              Container(
+                width: 50,
+                height: 50,
+                color: Colors.black,
+              ),
+              Container(
+                width: 50,
+                height: 50,
+                color: Colors.black,
+              ),
+            ],
+          ),
+        ]),
       ),
       floatingActionButton: FloatingActionButton(
           child: Icon(Icons.add),

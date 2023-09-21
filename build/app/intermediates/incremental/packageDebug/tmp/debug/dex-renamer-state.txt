@@ -1,4 +1,4 @@
-#Tue Sep 19 08:34:21 BRT 2023
-base.0=/home/danieljr/Documentos/Flutterrando/aplicativo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Thu Sep 21 18:44:06 BRT 2023
+base.0=/home/danieljr/Downloads/Flutterrando/aplicativo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

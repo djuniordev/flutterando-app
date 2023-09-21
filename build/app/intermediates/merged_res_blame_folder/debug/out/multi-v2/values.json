@@ -4,7 +4,7 @@
             "outputFile": "com.example.aplicativo.app-mergeDebugResources-9:/values/values.xml",
             "map": [
                 {
-                    "source": "/home/danieljr/Documentos/Flutterrando/aplicativo/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/danieljr/Downloads/Flutterrando/aplicativo/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
