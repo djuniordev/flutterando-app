@@ -1,0 +1,12 @@
+/home/danieljr/Documentos/Flutterrando/aplicativo/build/linux/x64/debug/bundle/aplicativo
+/home/danieljr/Documentos/Flutterrando/aplicativo/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/danieljr/Documentos/Flutterrando/aplicativo/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/danieljr/Documentos/Flutterrando/aplicativo/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/danieljr/Documentos/Flutterrando/aplicativo/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/danieljr/Documentos/Flutterrando/aplicativo/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/danieljr/Documentos/Flutterrando/aplicativo/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/danieljr/Documentos/Flutterrando/aplicativo/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/danieljr/Documentos/Flutterrando/aplicativo/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/danieljr/Documentos/Flutterrando/aplicativo/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/danieljr/Documentos/Flutterrando/aplicativo/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/danieljr/Documentos/Flutterrando/aplicativo/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
